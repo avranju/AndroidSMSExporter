@@ -1,0 +1,15 @@
+{
+  "name": "SMSExportServer",
+  "version": "0.0.0",
+  "description": "SMSExportServer",
+  "main": "app.js",
+  "author": {
+    "name": "rajave",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}

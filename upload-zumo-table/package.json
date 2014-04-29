@@ -1,0 +1,10 @@
+{
+  "name": "upload_zumo_table",
+  "version": "0.0.0",
+  "description": "upload-zumo-table",
+  "main": "app.js",
+  "author": {
+    "name": "rajave",
+    "email": ""
+  }
+}
